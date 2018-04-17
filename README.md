@@ -28,6 +28,7 @@
 | fedora [🔊](http://dict.youdao.com/dictvoice?audio=fedora&type=1) | ✅ [fɪ'dɔːrə]| ❌ ['fedərə] |
 | Git [🔊](http://dict.youdao.com/dictvoice?audio=git&type=1) | ✅ [ɡɪt] | ❌ [dʒɪt; jɪt] |
 | GNU [🔊](https://upload.wikimedia.org/wikipedia/commons/2/24/En-gnu.ogg) | ✅ [gnu:] | |
+| Grafana [🔊](https://www.youtube.com/watch?v=mgwQWFeiW_Y) | ✅ [Grah-fah-nah] | ❌ [] |
 | GUI [🔊](http://dict.youdao.com/dictvoice?audio=GUI&type=1) | ✅ [ˈɡui] | |
 | Haskell [🔊](http://dict.youdao.com/dictvoice?audio=haskell&type=1) | ✅ [ˈhæskəl] | ❌ [hæˈskəl] |
 | height [🔊](http://dict.youdao.com/dictvoice?audio=height&type=1) | ✅ [haɪt] | ❌ [heɪt] |
@@ -37,6 +38,7 @@
 | issue [🔊](http://dict.youdao.com/dictvoice?audio=issue&type=1) | ✅ ['ɪʃuː] | ❌ [ˈaɪʃuː] |
 | Java [🔊](http://dict.youdao.com/dictvoice?audio=java&type=1) | ✅ ['dʒɑːvə] | ❌ ['dʒɑːvɑː] |
 | jpg(jpeg) [🔊](http://dict.youdao.com/dictvoice?audio=JPEG&type=1) | ✅ ['dʒeɪpeɡ] | ❌ [ˈdʒeɪˈpi:ˈdʒiː] |
+| Kibana [🔊](https://youglish.com/search/kibana) | ✅ [kai'bana] | ❌ [ki'bana] |
 | lambda [🔊](http://dict.youdao.com/dictvoice?audio=lambda&type=1) | ✅ [ˈlæmdə] | ❌ [ˈlɒŋmdɑ] |
 | linear [🔊](http://dict.youdao.com/dictvoice?audio=linear&type=1) | ✅ ['lɪnɪə] | ❌ ['laɪə] |
 | Linux [🔊](http://dict.youdao.com/dictvoice?audio=linux&type=2) | ✅ ['lɪnəks] | ❌ [ˈlɪnʌks; ˈlɪnjuːks] |
